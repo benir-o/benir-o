@@ -9,7 +9,7 @@ I am currently working on:
 - Android development
 - Algorithms and data structures
 - User Interface Design
-- Object Oriented Code Refactorization
+- Refactorization of Procedural Code to Object Oriented design
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benir-o)](https://github.com/anuraghazra/github-readme-stats)
