@@ -5,10 +5,10 @@ I am Benir from Kenya, currently studying Computer Science at Strathmore Univers
 http://www.youtube.com/@Nircode
 
 I am currently working on:
-🌱 Springboot Framework
-🈸️ Android development
-📊 Algorithms and data structures
-👨‍💻 Python programming
+- 🌱 Springboot Framework
+- 🈸️ Android development
+- 📊 Algorithms and data structures
+- 👨‍💻 Python programming
 
 
 
