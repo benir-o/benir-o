@@ -5,11 +5,11 @@ I am Benir from Kenya, currently studying Computer Science at Strathmore Univers
 http://www.youtube.com/@Nircode
 
 I am currently working on:
-- Springboot Framework
-- Android development
-- Algorithms and data structures
-- User Interface Design
-- Refactorization of Procedural Code to Object Oriented design
+🌱 Springboot Framework
+🈸️ Android development
+📊 Algorithms and data structures
+👨‍💻 Python programming
+-
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benir-o)](https://github.com/anuraghazra/github-readme-stats)
