@@ -9,6 +9,7 @@ I am currently working on:
 - 🈸️ Android development
 - 📊 Algorithms and data structures
 - 👨‍💻 Python programming
+- 🌐Web development with JavaScript
 
 
 
