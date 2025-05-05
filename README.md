@@ -1,14 +1,13 @@
 ## Hi there 👋
 
-I am Benir from Kenya, currently studying Computer Science at Strathmore University. I am currently learning Java, alongside the springboot framework. I also have a youtube channel, covering Java and C++ Object Oriented Concepts. You can find it here:
+I am Benir from Kenya, currently studying Computer Science at Strathmore University. I am currently learning Java, Python and Algorithms and data structures. I also have a channel that covers [Object Oriented Programming](http://www.youtube.com/@Nircode)
 
-[Nircode](http://www.youtube.com/@Nircode)
+
 
 I am currently working on:
 - 🌱 Springboot Framework
 - 🈸️ Android development
-- 📊 Algorithms and data structures
-- 👨‍💻 Python programming
+- 👨‍💻 Algorithms and Data Structures using python and Java
 - 🌐Web development with JavaScript
 
 
