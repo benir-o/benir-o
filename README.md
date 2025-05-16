@@ -11,12 +11,11 @@ My current instructor is
 
 
 I am currently working on:
-- 🌱 Springboot Framework
-- 🈸️ Android development
 - 👨‍💻 Algorithms and Data Structures using python and Java
 - 🌐Web development with JavaScript
 
 
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benir-o)](https://github.com/anuraghazra/github-readme-stats)
 
