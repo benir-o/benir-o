@@ -1,6 +1,6 @@
-## Hi there 👋
+## 🚀 Hello, I am Benir
 
-I am Benir from Kenya, currently studying Computer Science at Strathmore University. I am interested in Mobile App Development, Machine Learning as well as Algorithms and Data Structures.<br>
+This is Benir from Kenya, currently studying Computer Science at Strathmore University. I am interested in Mobile App Development, Machine Learning as well as Algorithms and Data Structures.<br>
 
 <a href="http://www.youtube.com/@Nircode"> `Benir on youtube`</a> <br>
 
