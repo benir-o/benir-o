@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-I am Benir from Kenya, currently studying Computer Science at Strathmore University. I am currently learning Java, Python and Algorithms and data structures. I also have a channel that covers [Object Oriented Programming](http://www.youtube.com/@Nircode)
+I am Benir from Kenya, currently studying Computer Science at Strathmore University. I am interested in Mobile App Development, Machine Learning as well as Algorithms and Data Structures.<br>
+
+<a href="http://www.youtube.com/@Nircode"> `Benir on youtube`</a> <br>
+
+My current instructor is 
+<a href="https://github.com/kelvinokumu">`Kelvin Okumu`</a>
+
 
 
 
