@@ -1,20 +1,19 @@
 ## 🚀 Hello, I am Benir
 
 I am currently studying Computer Science. I am interested in Web App Development, Machine Learning and Algorithms.<br>
-Looking forward to collaborate on projects!
+Looking forward to collaborate on projects!<br>
 
 <a href="http://www.youtube.com/@Nircode"> `Benir on youtube`</a> <br>
 
-My current instructors<br>
+## Instructors
 <a href="https://github.com/kelvinokumu">`Kelvin Okumu`</a>
 <a href="https://github.com/mundabenj">`Mundama Benjamin`</a>
 
-
-
-
-I am currently working on:
+## 💡Current Projects
+- 🗺️Location tracking using Google Maps JavaScript API
+- 🌐Web development with JavaScript, PHP, React, HTML and CSS
 - 👨‍💻 Algorithms and Data Structures using python and Java
-- 🌐Web development with JavaScript, React, HTML and CSS
+
 
 
 <br>
