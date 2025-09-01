@@ -5,7 +5,7 @@ Looking forward to collaborate on projects!
 
 <a href="http://www.youtube.com/@Nircode"> `Benir on youtube`</a> <br>
 
-My current instructors
+My current instructors<br>
 <a href="https://github.com/kelvinokumu">`Kelvin Okumu`</a>
 <a href="https://github.com/mundabenj">`Mundama Benjamin`</a>
 
